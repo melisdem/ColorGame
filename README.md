@@ -1,4 +1,4 @@
-Simple Color Game Project from Colt Steele's udemy course
+# Simple Color Game Project from Colt Steele's udemy course
 
 In this game you have to guess the right color whose rgb is given.
 
